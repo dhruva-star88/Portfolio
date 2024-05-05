@@ -1,0 +1,14 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/dhruva-star88/todo-web-app.git;1.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/dhruva-star88/PDF-template.git;3.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/dhruva-star88/pdf-invoice-generator.git;4.png
+News Site;A project that gets data from a news API and sends news with headline and description to our email.;https://github.com/dhruva-star88/news-to-email.git;5.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/dhruva-star88/Whether-API.git;6.png
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/dhruva-star88/scraping-music-band.git;8.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/dhruva-star88/Webcam-detection.git;11.png
+Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://github.com/dhruva-star88/Astronomy-image-of-the-day.git;14.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/dhruva-star88/Whether-forecast-App.git;16.png
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/dhruva-star88/Student_management_gui.git;17.png
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/dhruva-star88/Restoraunt-app.git;19.png
+Job Application Form;A flask web app to apply for job application, and sends an email to confirm the submission.;https://github.com/dhruva-star88/job-application.git;job.png
+Hotel Management system; A web app built using streamlit, where a person can book a hotel and gets a digital ticket to his/her email.;https://github.com/dhruva-star88/Hotel-booking-vscode.git;hotel.png
